@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في الظلام العتيق
+> أنت روحي وملاذي الرقيق
+> خذني إليك في هذا الطريق
+> نبضك يهديني حين أفيق
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
