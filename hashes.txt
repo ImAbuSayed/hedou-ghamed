@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hedou’ Ghamed
+
+This log tracks the cryptographic history and versioning for the song **Hedou’ Ghamed** (hedou-ghamed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:00:45.925557 | `v1` | `0cb92d221f1bc818f90dede7ebd22558ca112a980f5634b946139a1dff518fb8` | `5644ce840abb145f8fdeeb2592511c61ae55eb5d0b882f898fb516e6852e87e6` | `2026-05-09_hedou-ghamed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
